@@ -12,4 +12,4 @@
 
 ```bash
 pip install pytest selenium
-python -m pytest --language=en test_items.py
+python -m pytest --language=es test_items.py
